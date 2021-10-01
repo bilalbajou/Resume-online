@@ -1,0 +1,90 @@
+Folder D:\Projets\Cv en ligne\images\certifications\DwnlData\BAJOUBILAL\net_geo_opera_com_516\ was created.
+Reconstruits les anciennes parties téléchargées...
+Connexion en cours...
+Windows 10.0
+v6.38b23   Time: Thu Sep 30 22:36:06.522 2021 (1633037766 sec)
+Url https://net.geo.opera.com /opera/stable/windows?utm_tryagain=yes&utm_source=opera.com_via_opera_com&utm_medium=roc&utm_campaign=(none)_via_opera_com_https&utm_content=%2Ffr&http_referrer=https%3A%2F%2Fwww.opera.com%2Ffr&utm_site=opera_com&&utm_lastpage=opera.com/&dl_token=79549699
+User : anonymous, password :xxx
+EM = 0x74f45900, 0x74f45900,
+DM = 0x74f45960, 0x74f45960.
+Time: 1633037766.524
+C0:gethost
+C0:Found 185.26.182.112
+Time: 1633037766.524
+C0:Connexion...
+C0:Checking connect, socket = 5380 
+C0:Connexion OK.
+Time: 1633037766.622
+C0:179 bytes of handshake (2) data sent
+C0:2678 bytes of handshake data received (L711)
+C0:93 bytes of handshake (4) data sent
+C0:51 bytes of handshake data received (L711)
+C0:InitializeSecurityContext (2) ret=0x0
+C0:Handshake was successful
+C0:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+C0:Envois GET...
+C0:Header: 13, Trailer: 16, MaxMessage: 16384
+C0:1016 bytes of request sent
+C0:HTTP/1.1 200 OK
+C0:Server: nginx
+C0:Date: Thu, 30 Sep 2021 21:36:09 GMT
+C0:Content-Type: application/octet-stream
+C0:Transfer-Encoding: chunked
+C0:Connection: keep-alive
+C0:Content-Disposition: attachment; filename=OperaSetup.exe
+C0:ETag: "1c49d49813afb74a58c625dd08a2b259"
+C0:Set-Cookie: dl_token=79549699; Domain=.opera.com; Path=/
+C0:Strict-Transport-Security: max-age=31536000; includeSubDomains
+C0:
+C0:Réception de données...
+Réception de données...
+time 1633037770, speed 20617, downl 48714 Bytes
+time 1633037773, speed 12631, downl 65066 Bytes
+time 1633037776, speed 9083, downl 97826 Bytes
+C0:Réception de données...
+time 1633037779, speed 6377, downl 97826 Bytes
+time 1633037781, speed 3309, downl 114202 Bytes
+time 1633037784, speed 10247, downl 146962 Bytes
+time 1633037789, speed 6781, downl 163346 Bytes
+time 1633037792, speed 4540, downl 179722 Bytes
+time 1633037796, speed 2580, downl 179722 Bytes
+time 1633037799, speed 2471, downl 196106 Bytes
+time 1633037802, speed 6303, downl 212482 Bytes
+time 1633037805, speed 9759, downl 245242 Bytes
+time 1633037808, speed 6310, downl 245242 Bytes
+C0:Disconnect in audit 2195
+C0:stratPos=0, endPos=0, downloaded=245242, posInCmpBuff3=0
+C0:Sending Close Notify
+C0:Deconnexion.
+Time: 1633037836.588
+C0:gethost
+C0:Found 185.26.182.112
+Time: 1633037836.672
+C0:Connexion...
+C0:179 bytes of handshake (2) data sent
+C0:2677 bytes of handshake data received
+C0:93 bytes of handshake data sent
+C0:51 bytes of handshake data received
+C0:Handshake was successful
+C0:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+C0:Envois GET...
+C0:245242-0, 245178-
+C0:Header: 13, Trailer: 16, MaxMessage: 16384
+C0:1038 bytes of request sent
+C0:HTTP/1.1 200 OK
+C0:stratPos=245242, endPos=0, downloaded=0, posInCmpBuff3=0
+C0:Sending Close Notify
+C0:Deconnexion.
+Cancel by user.

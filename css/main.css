@@ -5081,7 +5081,7 @@ a.credit {
   .navbar-brand{
     font-family: monospace;
   }
-  .btn-certi{
+  .btn-certi a{
     width: 30%;
     
   }
